@@ -5,6 +5,6 @@
 
 def parrot(noise="Squawk!")
 
-  puts noise
-
+  puts "#{noise}"
+  puts "Pretty bird!"
 end
