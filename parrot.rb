@@ -3,8 +3,8 @@
 
 
 
-def parrot(noise="Squawk!")
+def parrot(bird="Squawk!")
 
-  puts "#{noise}"
+  puts "#{bird}"
 
 end
